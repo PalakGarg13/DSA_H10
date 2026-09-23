@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/PalakGarg13/DSA_H10/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/PalakGarg13/DSA_H10/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/PalakGarg13/DSA_H10/tree/master/0047-permutations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/PalakGarg13/DSA_H10/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/PalakGarg13/DSA_H10/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/PalakGarg13/DSA_H10/tree/master/0047-permutations-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/PalakGarg13/DSA_H10/tree/master/0037-sudoku-solver) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/PalakGarg13/DSA_H10/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
