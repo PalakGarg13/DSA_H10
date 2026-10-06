@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/PalakGarg13/DSA_H10/tree/master/0037-sudoku-solver) |
+| [0146-lru-cache](https://github.com/PalakGarg13/DSA_H10/tree/master/0146-lru-cache) |
 ## Backtracking
 |  |
 | ------- |
@@ -36,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/PalakGarg13/DSA_H10/tree/master/0047-permutations-ii) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/PalakGarg13/DSA_H10/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/PalakGarg13/DSA_H10/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/PalakGarg13/DSA_H10/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
