@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/PalakGarg13/DSA_H10/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0146-lru-cache](https://github.com/PalakGarg13/DSA_H10/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PalakGarg13/DSA_H10/tree/master/0160-intersection-of-two-linked-lists) |
 ## Design
@@ -54,5 +55,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/PalakGarg13/DSA_H10/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PalakGarg13/DSA_H10/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
