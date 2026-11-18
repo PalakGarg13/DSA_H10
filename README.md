@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/PalakGarg13/DSA_H10/tree/master/0037-sudoku-solver) |
+| [0133-clone-graph](https://github.com/PalakGarg13/DSA_H10/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/PalakGarg13/DSA_H10/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PalakGarg13/DSA_H10/tree/master/0160-intersection-of-two-linked-lists) |
 ## Backtracking
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/PalakGarg13/DSA_H10/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/PalakGarg13/DSA_H10/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PalakGarg13/DSA_H10/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/PalakGarg13/DSA_H10/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/PalakGarg13/DSA_H10/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PalakGarg13/DSA_H10/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PalakGarg13/DSA_H10/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/PalakGarg13/DSA_H10/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/PalakGarg13/DSA_H10/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PalakGarg13/DSA_H10/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/PalakGarg13/DSA_H10/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/PalakGarg13/DSA_H10/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/PalakGarg13/DSA_H10/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/PalakGarg13/DSA_H10/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/PalakGarg13/DSA_H10/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
