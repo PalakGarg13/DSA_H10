@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/PalakGarg13/DSA_H10/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/PalakGarg13/DSA_H10/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/PalakGarg13/DSA_H10/tree/master/0047-permutations-ii) |
+| [0200-number-of-islands](https://github.com/PalakGarg13/DSA_H10/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/PalakGarg13/DSA_H10/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/PalakGarg13/DSA_H10/tree/master/0200-number-of-islands) |
 ## Algorithm X
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/PalakGarg13/DSA_H10/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/PalakGarg13/DSA_H10/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PalakGarg13/DSA_H10/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/PalakGarg13/DSA_H10/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PalakGarg13/DSA_H10/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PalakGarg13/DSA_H10/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PalakGarg13/DSA_H10/tree/master/0404-sum-of-left-leaves) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/PalakGarg13/DSA_H10/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/PalakGarg13/DSA_H10/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PalakGarg13/DSA_H10/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/PalakGarg13/DSA_H10/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/PalakGarg13/DSA_H10/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
@@ -111,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PalakGarg13/DSA_H10/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PalakGarg13/DSA_H10/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/PalakGarg13/DSA_H10/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
